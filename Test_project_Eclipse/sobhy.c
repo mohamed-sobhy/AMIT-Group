@@ -2,5 +2,5 @@
 void main(void) {
 
 int x=333 ;
-int y=5;
+
 }
