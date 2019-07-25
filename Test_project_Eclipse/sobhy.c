@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main(void) {
 
-int x ;
+int x=333 ;
 
 
 }
